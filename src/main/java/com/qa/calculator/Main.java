@@ -19,4 +19,7 @@ public class Main {
 	public int subtract(int num1, int num2) {
 		return num1-num2;
 	}
+	public float modulus(int x, int y) {
+		return x%y;
+	}
 }
